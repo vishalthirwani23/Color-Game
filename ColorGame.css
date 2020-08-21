@@ -1,5 +1,5 @@
 body {
-	background-color: #000000;
+	background: #232323;
 	margin: 0;
 	font-family: "Montserrat", "Avenir";
 }
@@ -22,11 +22,10 @@ body {
 }
 
 h1 {
-	text-align: center;
+        text-align: center;
 	line-height: 1.1;
 	font-weight: normal;
 	color: white;
-	background-color: steelblue;
 	margin: 0;
 	text-transform: uppercase;
 	padding: 20px 0;
@@ -40,20 +39,18 @@ h1 {
 	display: inline-block;
 	width: 20%;
 }
-
-#stripe {
+ #stripe {
  	background-color: white;
  	height: 30px;
  	text-align: center;
  	color: black;
  }
 
-.selected {
+ .selected {
  	color: white;
  	background: steelblue;
  }
- 
-button {
+ button {
  	border: none;
  	background: none;
  	text-transform: uppercase;
@@ -68,7 +65,9 @@ button {
 	outline: none;
  }
 
-button:hover {
+ button:hover {
  	color: white;
  	background: steelblue;
  }
+
+
