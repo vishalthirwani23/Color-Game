@@ -77,7 +77,7 @@ function reset(){
 
      }
 	}
-	h1.style.background = "steelblue";
+	h1.style.background = "black";
 }
 
 
