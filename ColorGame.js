@@ -81,13 +81,9 @@ function reset(){
 }
 
 
-
 resetButton.addEventListener("click", function(){
 	reset();
 })
-
-
-
 
 
 function changeColors(color){
